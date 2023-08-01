@@ -1,0 +1,16 @@
+.img{
+    
+    background-image: url("bg002.jpg");
+    background-repeat: no-repeat;
+
+    
+    
+    background-size : cover;
+    background-position : center;
+    height:1000px;
+    width:1600px;    
+}
+.Al{
+    margin-top: -900px;
+    box-shadow: 5px;
+}
